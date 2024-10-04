@@ -1,2 +1,3 @@
 # QR-Code-Generator-using-JavaScript
-QR Code generator using JavaScript
+
+A **QR Code Generator** using JavaScript allows users to create QR codes dynamically based on input data. The process typically involves using a JavaScript library such as **qrcode.js** or **QRCode.js** that converts a given text, URL, or any data into a scannable QR code. By utilizing the library's functions, developers can input data (like text or links) into an HTML form, and upon submission, JavaScript generates a QR code image that can be displayed on the webpage. This provides a quick and easy way to share information through QR codes, which can be scanned by any mobile device with a QR code reader.
